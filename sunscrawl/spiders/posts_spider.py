@@ -3,7 +3,8 @@ import scrapy
 
 class PostsSpider(scrapy.Spider):
     name = "news"
-    start_urls = ['https://chicago.suntimes.com/search?q=data']
+    start_urls = ['https://chicago.suntimes.com/news search?q=gun+violence',
+                  'https://chicago.suntimes.com/search?page=2&q=gun+violence']
 
     def parse(self, response):
         data = {}
@@ -16,8 +17,15 @@ class PostsSpider(scrapy.Spider):
                     'Description': n.css('p.c-entry-box--compact__dek::text').get(),
                     'Author': n.css(
                         'div.c-byline span.c-byline-wrapper span.c-byline__item span.c-byline__author-name::text').get(),
-                    'Date': n.css('div.c-byline span.c-byline-wrapper span.c-byline__item time.c-byline__item::text').get().strip()
+                    'Date': n.css(
+                        'div.c-byline span.c-byline-wrapper span.c-byline__item time.c-byline__item::text').get().strip()
                 }
 
-        next_page = response.css('nav.c-pagination.u-clearfix a::attr(href)').get()
+        next_page = response.css(
+            'nav.c-pagination.u-clearfix a.c-pagination__next.c-pagination__link.p-button::attr(href)').get()
 
+        for counter in range(10):
+            if next_page is not None:
+                next_page = response.urljoin(next_page)
+                yield scrapy.Request(next_page, callback=self.parse)
+            counter += 1

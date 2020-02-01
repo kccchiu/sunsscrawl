@@ -9,6 +9,5 @@ import scrapy
 
 
 class SunscrawlItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    images = scrapy.Field()
+    images_url = scrapy.Field()
