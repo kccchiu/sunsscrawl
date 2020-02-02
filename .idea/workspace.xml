@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fdc9ef3-7c73-4cf8-98de-a1a8a219bc0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sunscrawl/spiders/img_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sunscrawl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sunscrawl.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/sunscrawl/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunscrawl/items.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sunscrawl/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunscrawl/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sunscrawl/spiders/img_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunscrawl/spiders/img_spider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sunscrawl/spiders/posts_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunscrawl/spiders/posts_spider.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +91,8 @@
       <workItem from="1580501921985" duration="7246000" />
       <workItem from="1580581707759" duration="723000" />
       <workItem from="1580582941802" duration="2922000" />
-      <workItem from="1580591038909" duration="3963000" />
+      <workItem from="1580591038909" duration="5988000" />
+      <workItem from="1580600907475" duration="11959000" />
     </task>
     <servers />
   </component>
@@ -133,9 +132,10 @@
     <state x="284" y="0" key="SettingsEditor/-1920.0.1920.1034/1920.0.1920.1050/0.0.1280.689@0.0.1280.689" timestamp="1580504991409" />
     <state x="-1459" y="168" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580502036855" />
     <state x="341" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580591165745" />
-    <state x="465" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1580591125540">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="581" y="305" key="com.intellij.ide.util.TipDialog" timestamp="1580601261649">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="581" y="305" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580601261649" />
     <state x="465" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1580591125540" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">

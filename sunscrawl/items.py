@@ -10,4 +10,4 @@ import scrapy
 
 class SunscrawlItem(scrapy.Item):
     images = scrapy.Field()
-    images_url = scrapy.Field()
+    image_urls = scrapy.Field()
