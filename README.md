@@ -1,8 +1,8 @@
 # Crawler for gun violence in Suns Times News
 The project contains 2 crawler. One for text and one for images.
-Text crawler store the results in a json, and the image crawler store the downloaded images in a folder called news_image.
+Text crawler store the results in a json file, and the image crawler store the downloaded images in a folder called news_image.
 
-To respect the server, both crawler have settings that delay the scraping process. If you want to test the crawler, enter a small page number when you start the crawler.
+To respect the server, both crawler have settings that slow down the scraping process. If you want to test the crawler, enter a small page number when you start the crawler.
 
 #### Prereq / Dependencies
 1. Python 3.7
@@ -21,7 +21,7 @@ scrapy crawl images & scrapy crawl news -o scraped_news.json
 ```
 Then entered the desired number of pages to scrape.
 
-Bug: You have to enter the number multiple times.
+### Bug: You have to enter the number multiple times.
 
 
 
