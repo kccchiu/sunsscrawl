@@ -7,7 +7,6 @@
 
 import scrapy
 
-
 class SunscrawlItem(scrapy.Item):
     images = scrapy.Field()
     image_urls = scrapy.Field()

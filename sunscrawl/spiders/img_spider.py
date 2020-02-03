@@ -3,9 +3,13 @@ from ..items import SunscrawlItem
 
 
 class ImgSpider(scrapy.Spider):
+    pages = int(input('How many pages of image do you want to scrape: '))
+    if pages >= 1000 or type(pages) != int:
+        raise ValueError(
+            "The value you entered is either too big or invalid. Please enter a number that is less than 1000")
+
     name = "images"
-    pages = 10
-    start_urls = ['https://chicago.suntimes.com/search?page={}&q=gun+violence'.format(i+1) for i in range(pages)]
+    start_urls = ['https://chicago.suntimes.com/search?page={}&q=gun+violence'.format(i + 1) for i in range(pages)]
 
     def parse(self, response):
         item = SunscrawlItem()
@@ -24,7 +28,3 @@ class ImgSpider(scrapy.Spider):
         #     counter += 1
 
         return item
-
-
-
-

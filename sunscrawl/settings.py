@@ -67,28 +67,28 @@ ROBOTSTXT_OBEY = False
 
 
 ITEM_PIPELINES = {
-    'sunscrawl.pipelines.SunscrawlPipeline': 300,
-    'scrapy.pipelines.images.ImagesPipeline': 32
+    'sunscrawl.pipelines.SunscrawlPipeline': 600,
+    'scrapy.pipelines.images.ImagesPipeline': 600
 }
 IMAGES_STORE = r'C:\PyProjects\sunsscrawl\news_image'
 
-IMAGES_THUMBS = {
-    'small': (80, 80)
-}
+# IMAGES_THUMBS = {
+#     'small': (80, 80)
+# }
 
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
-# AUTOTHROTTLE_ENABLED = True
+AUTOTHROTTLE_ENABLED = True
 # The initial download delay
-# AUTOTHROTTLE_START_DELAY = 5
+AUTOTHROTTLE_START_DELAY = 30
 # The maximum download delay to be set in case of high latencies
-# AUTOTHROTTLE_MAX_DELAY = 60
+AUTOTHROTTLE_MAX_DELAY = 300
 # The average number of requests Scrapy should be sending in parallel to
 # each remote server
-# AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0
+AUTOTHROTTLE_TARGET_CONCURRENCY = 0.1
 # Enable showing throttling stats for every response received:
-# AUTOTHROTTLE_DEBUG = False
+AUTOTHROTTLE_DEBUG = False
 
 # Enable and configure HTTP caching (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings

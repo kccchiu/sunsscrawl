@@ -1,10 +1,13 @@
 import scrapy
 
-
 class PostsSpider(scrapy.Spider):
+    pages = int(input('How many pages of news do you want to scrape: '))
+    if pages >= 1000 or type(pages) != int:
+        raise ValueError(
+            "The value you entered is either too big or invalid. Please enter a number that is less than 1000")
+
     name = "news"
-    pages = 10
-    start_urls = ['https://chicago.suntimes.com/search?page={}&q=gun+violence'.format(i+1) for i in range(pages)]
+    start_urls = ['https://chicago.suntimes.com/search?page={}&q=gun+violence'.format(i + 1) for i in range(pages)]
 
     def parse(self, response):
         for new in response.css('div.c-compact-river'):
@@ -16,15 +19,5 @@ class PostsSpider(scrapy.Spider):
                     'Author': n.css(
                         'div.c-byline span.c-byline-wrapper span.c-byline__item span.c-byline__author-name::text').get(),
                     'Date': n.css(
-                        'div.c-byline span.c-byline-wrapper span.c-byline__item time.c-byline__item::text').get().strip(),
-                    'Image': n.css('div.c-entry-box--compact__image img::attr(src)').extract()[1]
+                        'div.c-byline span.c-byline-wrapper span.c-byline__item time.c-byline__item::text').get().strip()
                 }
-
-        # next_page = response.css(
-        #     'nav.c-pagination.u-clearfix a.c-pagination__next.c-pagination__link.p-button::attr(href)').get()
-        #
-        # for counter in range(10):
-        #     if next_page is not None:
-        #         next_page = response.urljoin(next_page)
-        #         yield scrapy.Request(next_page, callback=self.parse)
-        #     counter += 1
