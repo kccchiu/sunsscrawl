@@ -1,4 +1,4 @@
-# Crawler for gun violence in Suns Times News
+# Crawler for gun violence in Chicago Suns Times News
 The project contains 2 crawler. One for text and one for images.
 Text crawler store the results in a json file, and the image crawler store the downloaded images in a folder called news_image.
 
