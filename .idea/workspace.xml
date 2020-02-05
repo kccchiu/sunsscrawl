@@ -3,200 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6fdc9ef3-7c73-4cf8-98de-a1a8a219bc0c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/013c304e151e2d1cb6a0544948e11770f12728d3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/02e6a8221130cc8339d523aeba127b60e111b8cd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/054a1081d1cf49819b4f4792f1d457badb531cfe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/06b410579ea0c799d6a270bf6490d770d5159cf8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/0990266e1631ad9418ff6dfffa2ce84ce4bda01f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/0cd58a19ef9cb2296b78ed79576d5d4e41f8e89b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/0efcc098047df0a496d45c1e58b6f16dc0aa10a0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/110fa17ed1843bc8a4e26b797eeb7535f84faff7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/12bf5fe05b64e4c83fb84a7bd1d0f98516d669d3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/157b620b162384b506224950c0c430f6705937c5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/1f56fa2f262184f673488e87d0a4dfd4ffeeefc9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/201029c788e6de56c5e901765ac1ba4ceabdf579.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/20f3712efcc58bdc1535e0d21a9acee3a02115e7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/215f9c6fa466b43e9876a7d7d3d849ae6d648b33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/241a19a941b2e2f9aad092c54dcb7e52421dbc78.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/2751d666309742e13c497219b7942e0531c9a773.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/29dec12b077c568f00e3ddf9e4c586417a543a8f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/316072f91cc197c37744f53f7cab708b138e70e9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/35f2076616b73033a369a5c378d147de98eea47e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/37e458dfc7110b341210020a6a3bd72d3c57cfd5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/3af16c71cdc9f796a139ca16ad7f03905245ed7f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/44902c49c976093e724348c24d5e5552527f6f81.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/4ac79b7ffc281af2b8135ac67a2ad27820759710.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/4e5a5f97f592902bb8f476971f7e9cf27bd71616.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/5400c95034fc8299bb32301455a46066e923b8aa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/553c5be8d4e9d416ecb95aa351d4004b6bc0f7dc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/566a8109313714481ede98aa0355b7b864e6f480.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/57e69dde29c1339b6f6ddb379b4c9bec4107b1fb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/58f891221f2e67a7471a2a0d4fde3e1f0cd6c556.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/5a1402835beaa4fed293874f2dc2d8ff0ab0dfc6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/5abfcc74e60302fb0ea4d7a550433b91c47252ce.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/5dc81160bfd89f923956298f96ff1428e66d0138.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/5f7f305af3b562cc0838086334b3f72e6e38a4b1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/673f97f25d3cb8cead69cbb915f9ad02e8a559ea.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/699729d4981a05127ae11f9560a7f0a43dc810d7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/6bef63bd77dd2c059b25bd825f76bfc1fe5d14da.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/70383cc06eee22405e04e9710ecb496ba3ca3b56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/713f2945f436bfc0313d0f9c8f64aa15c4f8a72f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/762bb8e00920e5050a14934f2edba274222cb4e6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/76666abc875a25d8a257766ef90df1d6e914eb58.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/79f42eba03ddc8b40aa300af68d05c2b85510fad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/7b1b4f8bfca7127625e755ff7d138f2027cc657c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/7b1c510b4a1365ddc2f46a7194524b81025622e5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/7c1e666f31a1fbabb3e57cf8ed364f4e84b04304.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/7d75c76312e2dc7b85f9c6d059a5ed3415f1c86c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/8034d97743bb5467e7b94c3a0a2e5117b4408f2f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/819c37ced1d4538418872766662fd58ad7184f24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/828215c7004509f44d231b2c600268d2cb593936.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/849331e79194d27b84f44177a8378b3d9730a209.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/8794d306efbff40a23018481f2bc175f874e235b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/8d0a8fa8d8d58590da0cba1fdca19e64211b94d1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/8f48bad5c04b1d5bed673f295001ecb95976782e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/8f7f530a7dcbd94ea5d8635375e1a46c401e2ba1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/96470eabac5618b361175d823de5dd588d4358d8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/9958684b2bc5da57ed09777223a09f0bf00bc6f0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/9aff1662794dbe1b54c161ac16f1e6002d91aa5f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/9db13a0c38524f2f3b3f968c7956e1e9224f6c07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/9e1814917299e3197e04845dd1f0187279babce3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/9fc4cda4b9a5d964245cf67f3d20b7b5260c5015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/a2adc8822943fab02234a1202f6c41efcb1090ab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/a41765da33fd38f5f6c840523e0d08ec9b75c9c0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/a4333433061e9c13394761fa39b999dfe83e3587.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/a47b378f6189fa3fc0a7539b69980d540ec9bea2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/a774f495d6979ea81245fbc78f8bb04a8bc9b542.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/aacc91909f65f9383ba899993c9eaeb17ebb3d25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/b2984280b68da90b48a1a20672b873d6aba84dcf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/b4e7ac397a22c07b1970249847ceff36776d76e3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/b5893564280b4f534d260aca41d07dd772abcd87.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/b8161d318db9e4d559439861f103aeeb84496bbe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/b941434acb321b05e586f04b2beb503322a29bf8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/bb11af1b86714f3bfa8b1c98ee6ab626e488a7a1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/bfd01f6f7242a42fd8216e83a2a2c1ab61d4509f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/c0773f642073c28364b7277d2250280f8b43e831.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/c211ac2207197f013c4923e0cccd8798656d3bed.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/c3ccc2ba22ae94e0f88b505de8d00f2ca4544f81.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/c645f756016a2f1d7d2ea1825d706a5eec54d7d5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/c7bc6d6f97ee1142fbc51e17cdcc98ecb8c22ba8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/cafa32965233e5dda7d24e5ecac4e576ab88121e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/cc9f78ff0bdc8eb3c9bea85638ac735bc18b3689.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/d30f3299b335e7ec129828e7e65fc46cd8642411.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/d51fcade938fd58f79137896368ba04380ab485a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/db739037861216f8e04de605e692a563c509ed1a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/e3faa300538094be0125eb91996311bc5815b68b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/e620ee7b699b4d1ebfbfd9f026401951c57cd643.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/e919c5d7dd878c6d05391e72b71e3633e9204276.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/ea1a977615747e763e33e16e1d8871c6d26aa9cd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/eba4803d2a851d30c863233be835e997dd67a6c0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/ee446943b00e4ca665feb8a75db3ed3ce02ccc11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/f3be24cbdb57cd795104acca02814db52553aa6f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/f47067e2e4b79ca8b36e7ef1fc6b04effa033858.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/f68498dad8b9493f11b4a79c88116c3538e011a5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/f6ae1e0bcb4ad0d3def788d2ca6ec77c33f61309.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/fa4d7cfafeed1225294f3dab5ce89f932c13762a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/full/fc5140e4ba21887d07aef279230f0419007aba07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/013c304e151e2d1cb6a0544948e11770f12728d3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/02e6a8221130cc8339d523aeba127b60e111b8cd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/054a1081d1cf49819b4f4792f1d457badb531cfe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/06b410579ea0c799d6a270bf6490d770d5159cf8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/0990266e1631ad9418ff6dfffa2ce84ce4bda01f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/0cd58a19ef9cb2296b78ed79576d5d4e41f8e89b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/0efcc098047df0a496d45c1e58b6f16dc0aa10a0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/110fa17ed1843bc8a4e26b797eeb7535f84faff7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/12bf5fe05b64e4c83fb84a7bd1d0f98516d669d3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/157b620b162384b506224950c0c430f6705937c5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/1f56fa2f262184f673488e87d0a4dfd4ffeeefc9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/201029c788e6de56c5e901765ac1ba4ceabdf579.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/20f3712efcc58bdc1535e0d21a9acee3a02115e7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/215f9c6fa466b43e9876a7d7d3d849ae6d648b33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/241a19a941b2e2f9aad092c54dcb7e52421dbc78.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/2751d666309742e13c497219b7942e0531c9a773.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/29dec12b077c568f00e3ddf9e4c586417a543a8f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/316072f91cc197c37744f53f7cab708b138e70e9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/35f2076616b73033a369a5c378d147de98eea47e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/37e458dfc7110b341210020a6a3bd72d3c57cfd5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/3af16c71cdc9f796a139ca16ad7f03905245ed7f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/44902c49c976093e724348c24d5e5552527f6f81.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/4ac79b7ffc281af2b8135ac67a2ad27820759710.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/4e5a5f97f592902bb8f476971f7e9cf27bd71616.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/5400c95034fc8299bb32301455a46066e923b8aa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/553c5be8d4e9d416ecb95aa351d4004b6bc0f7dc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/566a8109313714481ede98aa0355b7b864e6f480.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/57e69dde29c1339b6f6ddb379b4c9bec4107b1fb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/58f891221f2e67a7471a2a0d4fde3e1f0cd6c556.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/5a1402835beaa4fed293874f2dc2d8ff0ab0dfc6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/5abfcc74e60302fb0ea4d7a550433b91c47252ce.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/5dc81160bfd89f923956298f96ff1428e66d0138.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/5f7f305af3b562cc0838086334b3f72e6e38a4b1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/673f97f25d3cb8cead69cbb915f9ad02e8a559ea.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/699729d4981a05127ae11f9560a7f0a43dc810d7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/6bef63bd77dd2c059b25bd825f76bfc1fe5d14da.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/70383cc06eee22405e04e9710ecb496ba3ca3b56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/713f2945f436bfc0313d0f9c8f64aa15c4f8a72f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/762bb8e00920e5050a14934f2edba274222cb4e6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/76666abc875a25d8a257766ef90df1d6e914eb58.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/79f42eba03ddc8b40aa300af68d05c2b85510fad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/7b1b4f8bfca7127625e755ff7d138f2027cc657c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/7b1c510b4a1365ddc2f46a7194524b81025622e5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/7c1e666f31a1fbabb3e57cf8ed364f4e84b04304.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/7d75c76312e2dc7b85f9c6d059a5ed3415f1c86c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/8034d97743bb5467e7b94c3a0a2e5117b4408f2f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/819c37ced1d4538418872766662fd58ad7184f24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/828215c7004509f44d231b2c600268d2cb593936.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/849331e79194d27b84f44177a8378b3d9730a209.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/8794d306efbff40a23018481f2bc175f874e235b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/8d0a8fa8d8d58590da0cba1fdca19e64211b94d1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/8f48bad5c04b1d5bed673f295001ecb95976782e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/8f7f530a7dcbd94ea5d8635375e1a46c401e2ba1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/96470eabac5618b361175d823de5dd588d4358d8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/9958684b2bc5da57ed09777223a09f0bf00bc6f0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/9aff1662794dbe1b54c161ac16f1e6002d91aa5f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/9db13a0c38524f2f3b3f968c7956e1e9224f6c07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/9e1814917299e3197e04845dd1f0187279babce3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/9fc4cda4b9a5d964245cf67f3d20b7b5260c5015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/a2adc8822943fab02234a1202f6c41efcb1090ab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/a41765da33fd38f5f6c840523e0d08ec9b75c9c0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/a4333433061e9c13394761fa39b999dfe83e3587.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/a47b378f6189fa3fc0a7539b69980d540ec9bea2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/a774f495d6979ea81245fbc78f8bb04a8bc9b542.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/aacc91909f65f9383ba899993c9eaeb17ebb3d25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/b2984280b68da90b48a1a20672b873d6aba84dcf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/b4e7ac397a22c07b1970249847ceff36776d76e3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/b5893564280b4f534d260aca41d07dd772abcd87.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/b8161d318db9e4d559439861f103aeeb84496bbe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/b941434acb321b05e586f04b2beb503322a29bf8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/bb11af1b86714f3bfa8b1c98ee6ab626e488a7a1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/bfd01f6f7242a42fd8216e83a2a2c1ab61d4509f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/c0773f642073c28364b7277d2250280f8b43e831.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/c211ac2207197f013c4923e0cccd8798656d3bed.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/c3ccc2ba22ae94e0f88b505de8d00f2ca4544f81.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/c645f756016a2f1d7d2ea1825d706a5eec54d7d5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/c7bc6d6f97ee1142fbc51e17cdcc98ecb8c22ba8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/cafa32965233e5dda7d24e5ecac4e576ab88121e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/cc9f78ff0bdc8eb3c9bea85638ac735bc18b3689.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/d30f3299b335e7ec129828e7e65fc46cd8642411.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/d51fcade938fd58f79137896368ba04380ab485a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/db739037861216f8e04de605e692a563c509ed1a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/e3faa300538094be0125eb91996311bc5815b68b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/e620ee7b699b4d1ebfbfd9f026401951c57cd643.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/e919c5d7dd878c6d05391e72b71e3633e9204276.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/ea1a977615747e763e33e16e1d8871c6d26aa9cd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/eba4803d2a851d30c863233be835e997dd67a6c0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/ee446943b00e4ca665feb8a75db3ed3ce02ccc11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/f3be24cbdb57cd795104acca02814db52553aa6f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/f47067e2e4b79ca8b36e7ef1fc6b04effa033858.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/f68498dad8b9493f11b4a79c88116c3538e011a5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/f6ae1e0bcb4ad0d3def788d2ca6ec77c33f61309.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/fa4d7cfafeed1225294f3dab5ce89f932c13762a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_image/thumbs/small/fc5140e4ba21887d07aef279230f0419007aba07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sunscrawl/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunscrawl/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sunscrawl/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunscrawl/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sunscrawl/spiders/img_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunscrawl/spiders/img_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sunscrawl/spiders/posts_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunscrawl/spiders/posts_spider.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,7 +92,8 @@
       <workItem from="1580581707759" duration="723000" />
       <workItem from="1580582941802" duration="2922000" />
       <workItem from="1580591038909" duration="5988000" />
-      <workItem from="1580600907475" duration="23069000" />
+      <workItem from="1580600907475" duration="23669000" />
+      <workItem from="1580865221308" duration="1184000" />
     </task>
     <servers />
   </component>
@@ -326,10 +133,10 @@
     <state x="284" y="0" key="SettingsEditor/-1920.0.1920.1034/1920.0.1920.1050/0.0.1280.689@0.0.1280.689" timestamp="1580504991409" />
     <state x="-1459" y="168" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580502036855" />
     <state x="341" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580591165745" />
-    <state x="581" y="305" key="com.intellij.ide.util.TipDialog" timestamp="1580601261649">
+    <state x="581" y="305" key="com.intellij.ide.util.TipDialog" timestamp="1580865221561">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="581" y="305" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580601261649" />
+    <state x="581" y="305" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580865221561" />
     <state x="465" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1580591125540" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
