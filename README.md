@@ -15,7 +15,7 @@ pip install scrapy
 There are 2 crawler in this project. One for scraping text/article, and one for scraping images.
 
 Make sure the news_image folder is empty and the desired .json file name is not present in the project.
-Navigate to sunsscrawl/sunscrawl/settings.py and set your absolute on the line with IMAGES_STORE =
+Navigate to sunsscrawl/sunscrawl/settings.py and set your absolute on the line with IMAGES_STORE.
 In my case is
 ##### IMAGES_STORE = r'C:\PyProjects\sunsscrawl\news_image'
 
