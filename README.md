@@ -23,7 +23,7 @@ Run the following command:
 ```
 scrapy crawl images & scrapy crawl news -o scraped_news.json
 ```
-Then entered the desired number of pages to scrape.
+Then entered the desired number of pages to scrape. Note that you cannot enter over 1000 pages because the server cannot render over past 1000.
 
 ### Bug: You have to enter the number multiple times. (Total 4 times)
 
