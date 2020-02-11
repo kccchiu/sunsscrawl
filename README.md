@@ -6,9 +6,14 @@ To respect the server, both crawler have settings that slow down the scraping pr
 
 #### Prereq / Dependencies
 1. Python 3.7
-2. install Scrapy in your virtual environment via terminal/command prompt.
+2. Install Scrapy in your virtual environment via terminal/command prompt.
+3. Install scrapy
 ```
 pip install scrapy
+```
+4. May need to install Pillow
+```
+pip install Pillow
 ```
 
 ### Running the crawler
