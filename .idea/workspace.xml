@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fdc9ef3-7c73-4cf8-98de-a1a8a219bc0c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sunscrawl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sunscrawl.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sunscrawl/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunscrawl/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sunscrawl/spiders/img_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunscrawl/spiders/img_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sunscrawl/spiders/posts_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunscrawl/spiders/posts_spider.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,11 +114,12 @@
     </state>
     <state x="-1506" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580502061275" />
     <state x="331" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1580591228966" />
-    <state x="474" y="199" key="FileChooserDialogImpl" timestamp="1580584734093">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="639" y="278" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581389667188">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="-1327" y="251" key="FileChooserDialogImpl/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580502022183" />
     <state x="474" y="199" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1580584734093" />
+    <state x="639" y="278" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581389667188" />
     <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1580502078480">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
@@ -131,19 +136,17 @@
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="264" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580502078480" />
-    <state x="341" y="0" key="SettingsEditor" timestamp="1580591165745">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="478" y="27" key="SettingsEditor" timestamp="1581389681587">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="284" y="0" key="SettingsEditor/-1920.0.1920.1034/1920.0.1920.1050/0.0.1280.689@0.0.1280.689" timestamp="1580504991409" />
     <state x="-1459" y="168" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580502036855" />
     <state x="341" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580591165745" />
+    <state x="478" y="27" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1581389681587" />
     <state x="581" y="305" key="com.intellij.ide.util.TipDialog" timestamp="1581084433924">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="581" y="305" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1581084433924" />
     <state x="465" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1580940233535" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/sunscrawl$posts_spider.coverage" NAME="posts_spider Coverage Results" MODIFIED="1580502073141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sunscrawl/spiders" />
   </component>
 </project>

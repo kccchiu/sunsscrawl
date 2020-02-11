@@ -1,14 +1,15 @@
 import scrapy
 
 class PostsSpider(scrapy.Spider):
-    pages = int(input('How many pages of news do you want to scrape: '))
-    # pages = 1000
+    # pages = int(input('How many pages of news do you want to scrape: '))
+    pages = 999
     if pages >= 1000 or type(pages) != int:
         raise ValueError(
             "The value you entered is either too big or invalid. Please enter a number that is less than 1000")
 
     name = "news"
-    start_urls = ['https://chicago.suntimes.com/search?page={}&q=gun+violence'.format(i + 701) for i in range(pages)]
+    # start_urls = ['https://chicago.suntimes.com/search?page={}&q=gun+violence'.format(i + 701) for i in range(pages)]
+    start_urls = ['https://chicago.suntimes.com/search?page={}&q=gun'.format(i + 1) for i in range(pages)]
 
     def parse(self, response):
         for new in response.css('div.c-compact-river'):

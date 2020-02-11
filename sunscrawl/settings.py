@@ -70,7 +70,7 @@ ITEM_PIPELINES = {
     'sunscrawl.pipelines.SunscrawlPipeline': 600,
     'scrapy.pipelines.images.ImagesPipeline': 600
 }
-IMAGES_STORE = r'C:\PyProjects\sunsscrawl\news_image'
+IMAGES_STORE = r'/home/ki/Projects/sunsscrawl/news_image'
 
 # IMAGES_THUMBS = {
 #     'small': (80, 80)
